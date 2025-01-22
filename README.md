@@ -8,6 +8,7 @@ Stay tuned for updates and happy coding! 🚀
 
 1. Basics
    - [PyTorch Basics](./Basics/Pytorch_basics.ipynb)
+   - [Binary Classifier](./Basics/Binary_classifier.py)
 
 
 
