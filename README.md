@@ -9,6 +9,7 @@ Stay tuned for updates and happy coding! 🚀
 1. Basics
    - [PyTorch Basics](./Basics/Pytorch_basics.ipynb)
    - [Binary Classifier](./Basics/Binary_classifier.py)
+   - [Multiclass Classifier MNIST](./Basics/multiclass_classification_MNIST.ipynb)
 
 
 
