@@ -11,7 +11,8 @@ Stay tuned for updates and happy coding! 🚀
    - [Binary Classifier](./Basics/Binary_classifier.py)
    - [Multiclass Classifier MNIST](./Basics/multiclass_classification_MNIST.ipynb)
 
-
+2. Image Classification
+   - [GoogleNet](./Inception/Inception.py)
 
 <br>
 
